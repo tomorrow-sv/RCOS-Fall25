@@ -2,7 +2,7 @@
 
 - Name: Vanshika Bhamidipati
 - Graduating Year: 2028
-- Project Sub-area: Full-stack / web development / AI
+- Project Sub-area: Software and web dev
 - Photo:
 
 ![My photo](Pictures/photo.jpg)
